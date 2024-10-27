@@ -1,4 +1,4 @@
-# Essaie description "emoji chat"
+# Essaie description "emoji chat" :koala:
 description du projet
 
 le chien aime manger:
